@@ -52,7 +52,7 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: 'http://localhost:' + PORT,
+        url: 'https://toystore-service.fly.dev',
       },
     ],
   },

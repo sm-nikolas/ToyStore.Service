@@ -27,7 +27,7 @@ npm test
 
 Acesse e teste todas as rotas via Swagger:
 ```
-http://localhost:3000/api-docs
+https://toystore-service.fly.dev/api-docs/
 ```
 
 ## Usuário de exemplo
